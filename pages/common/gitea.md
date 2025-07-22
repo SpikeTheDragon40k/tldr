@@ -3,6 +3,7 @@
 > Administer Gitea, a lightweight Git hosting server.
 > Requires a configured `app.ini` file or environment variables.
 > More information: <https://docs.gitea.com/administration/command-line>.
+
 - Run the Gitea web server using the default configuration:
 
 `gitea web`
