@@ -28,6 +28,9 @@
 
 `dnsmasq --interface={{eth0}} --bind-interfaces`
 
+- Display help:
+`dnsmasq --help`
+
 - Display version:
 
 `dnsmasq --version`
